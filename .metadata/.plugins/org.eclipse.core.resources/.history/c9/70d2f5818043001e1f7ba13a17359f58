@@ -1,0 +1,8 @@
+package model.services;
+
+public class BrazilTaxService {
+
+	public Double tax(double amount) {
+		
+	}
+}

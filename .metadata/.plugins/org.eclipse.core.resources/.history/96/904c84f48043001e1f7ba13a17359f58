@@ -1,0 +1,11 @@
+package model.services;
+
+public class RetanlService {
+	private Double pricePerHour;
+	private Double pricePerDay;
+	private BrazilTaxService br;
+	
+	public RentalService() {
+		
+	}
+}
